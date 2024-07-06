@@ -36,7 +36,7 @@
 
 
 
-##URI
+## URI
 
 -URI는 안드로이드 기기 내부의 데이터를 표현하는 방법이다.
 
@@ -50,7 +50,7 @@ MediaStore.Images.Media.EXTERNAL_CONTENT_URI가 미디어를 가리키는 URI이
 
 ContentUris 클래스를 사용하면 사진이 저장된 DB의 id를 붙이는 형태의 URI 결합을 쉽게 할 수 있다.
 
-##Cursor
+## Cursor
 
 -Cursor는 Closeable 인터페이스를 상속한 인터페이스이다.
 
@@ -66,7 +66,7 @@ while 문을 통하여 모든 데이터를 순회할 수 있으며, Cursor 객�
 
 
 
->콜백 메서드
+## 콜백 메서드
   -onAttach() : 액티비티에 붙을 때 호출된다. 이때부터 액티비티의 참조를 사용할 수 있다.
   -onCreate() : 프래그먼트가 생성될 때 호출된다. 아직 레이아웃은 완성되기 전이다.
   -onCreateView() : 레이아웃을 생성하기 전에 호출된다. 완성된 뷰를 반환하게 되는데 아직 레이아웃은 완성되기 전이다.
