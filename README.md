@@ -3,6 +3,8 @@ during 2024 summer vacation
 
 ### BmiCalculator
 
+키와 체중을 입력하면 정보를 바탕으로 표준, 비만, 저체중을 표시.
+
 ### FlashLight
 
 플래시 기능은 안드로이드 6.0 버전에서 지원 가능.
@@ -20,6 +22,8 @@ during 2024 summer vacation
 네이버, 구글 등 각각의 웹 페이지로 이동할 수 있는 메뉴 생성.
 
 ### Xylophone
+
+음별로 색상과 길이를 다르게 하여, 동시 연주가 가능하도록 함.
 
 ### ChatApplication
 
