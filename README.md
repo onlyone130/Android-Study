@@ -13,8 +13,11 @@ during 2024 summer vacation
 
 ### StopWatch
 
+순간의 시간을 기록할 수 있는 버튼 생성.
+
 ### MyWebBrowser
 
+네이버, 구글 등 각각의 웹 페이지로 이동할 수 있는 메뉴 생성.
 
 ### Xylophone
 
