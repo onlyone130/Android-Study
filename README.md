@@ -11,6 +11,9 @@ during 2024 summer vacation
 
 ### GPSMap
 
+
+구글맵을 통한 이동 궤적 표시 기능.
+
 ### MyGallery
 
 ### StopWatch
