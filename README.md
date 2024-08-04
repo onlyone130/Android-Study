@@ -31,3 +31,6 @@ during 2024 summer vacation
 ### ChatApplication
 
 파이어베이스 데이터베이스를 통한 유저 아이디, 비밀번호 및 채팅 보관 기능.
+
+
+### UMC READ ME PROJECT
