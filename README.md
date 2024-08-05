@@ -34,3 +34,5 @@ during 2024 summer vacation
 
 
 ### UMC READ ME PROJECT
+
+책 별 숏폼 기능, 모임 생성 기능
